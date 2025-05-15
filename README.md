@@ -1,8 +1,4 @@
-Got it! Here's your customized `README.md` with the group members' names properly formatted **in separate lines**, bolded just like you wanted:
 
----
-
-````markdown
 # Electricity Billing System
 
 The **Electricity Billing System** is a web-based application designed to manage electricity consumption records and generate accurate billing for consumers. It allows administrators to manage user data, input consumption units, and generate bills automatically based on tariff rules.
