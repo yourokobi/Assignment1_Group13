@@ -6,10 +6,10 @@
  */
 
 // Database configuration
-$db_host = 'localhost';
-$db_user = 'root';  // Default XAMPP username
-$db_pass = '';      // Default XAMPP password (empty)
-$db_name = 'billing_system';  // Your database name
+$db_host = 'your-rds-endpoint';
+$db_user = 'admin';
+$db_pass = 'Admin12345!'; 
+$db_name = 'billing_system';
 
 // Create connection
 $conn = new mysqli($db_host, $db_user, $db_pass, $db_name);
